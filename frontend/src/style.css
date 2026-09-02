@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; margin: 40px; max-width: 850px; }
+textarea { width: 100%; min-height: 150px; margin: 12px 0; }
+button { padding: 10px 16px; cursor: pointer; }
+article { padding: 10px 0; border-bottom: 1px solid #ddd; }
